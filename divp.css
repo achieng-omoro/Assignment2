@@ -1,0 +1,39 @@
+.left{
+    display: flex;
+    gap: 40px;
+}
+.one{
+    height: 200px;
+    width: 190px;
+}
+.we{
+    font-size: 40px;
+}
+.wecreate{
+    color: black;
+}
+.two{
+    height: 300px;
+    width: 300px;
+
+}
+img{
+    border-radius: 20px;
+}
+ul{
+    list-style-type: circle;
+}
+.three{
+     height: 200px;
+    width: 190px;
+}
+.six{
+
+}
+span{
+    font-size: 50px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
